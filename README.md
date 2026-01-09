@@ -58,5 +58,5 @@ The platform is built and delivered **end-to-end**, covering **UI/UX, backend AP
 - **Architecture**: Modular service-based design
 
 ---
-## 📂 Project Structure (Simplified)
+
 
