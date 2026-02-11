@@ -6,7 +6,7 @@ It streamlines communication between property owners, clients, and contractors w
 The platform is built and delivered **end-to-end**, covering **UI/UX, backend APIs, storage, and infrastructure**.
  
 ---   
-  
+   
 ## 🔗 Repository Links
 
 - **Frontend Repository**  
